@@ -47,3 +47,5 @@
 Python      ██████████████░░░░░░░░  60%  
 Jupyter     ████████░░░░░░░░░░░░░░  30%  
 Other       ██░░░░░░░░░░░░░░░░░░░  10%
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DevBigSadiq&label=Profile+views&color=0e75b6&style=flat" alt="DevBigSadiq" /> </p> ```
