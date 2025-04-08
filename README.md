@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Developer | Passionate about Machine Learning & Smart Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer;Python+Lover+%7C+Machine+Learning+Explorer;Open+Source+Contributor+In+The+Making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer;Backend+Dev;Py+Lover+%7C+Machine+Learning+Explorer;Open+Source+Contributor+In+The+Making" alt="Typing SVG" />
 </p>
 
 ---
